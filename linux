@@ -4,3 +4,13 @@ evops-learning/
 │
 └── linux/
     └── commands.md
+# Linux Commands
+
+My Linux command notes as I learn DevOps.
+
+## 1. pwd
+
+Shows the current directory.
+
+```bash
+pwd
